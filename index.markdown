@@ -4,3 +4,4 @@
 
 layout: home
 ---
+This is the index page, feel free to add something in this page!
